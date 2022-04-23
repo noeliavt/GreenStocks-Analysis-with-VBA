@@ -3,7 +3,7 @@
 ## 1. Overview of Project
 
 ### 1.1. Purpose
-The main purpose of this analysis is to know how different campaigns fared in relation to their launch dates and their funding goals. In other words which campains have been sucessfull, failed, and or canceled according the launch dates and their goals.
+The main purpose of this project besides the analysis of the Steve's parents stocks information for 2017 and 2018 years, is organize the information per year and also calculate the total volume and returns for the different tickers along the refactoring of the VBS code to improve the general performance.
 
 ## 2. Analysis os Stocks
 
@@ -24,9 +24,14 @@ The number of cancelled campaigns were almost constant trough the year.
 
 On Regards the Outcomes we can conclude that the campaigns with goals less than 1000 and between 1000 to 4999 have the most successfull percentage as well as the campaigns were the goal was between 35000 to 50000 and more. Percentage of Cancel campaigns remain constant. 
 
-![VBA_Data Results_2018](/Resources/VBA_Challenge_Results2018.png)
+<p align="center">
+  <img  src="Resources/VBA_Challenge_Results2018.png">
+</p>
 
-![VBA_Challenge_2018](/Resources/VBA_Challenge_2018.png)
+<p align="center">
+  <img src="Resources/VBA_Challenge_2018.png">
+</p>
+
 
 
 ## 3. Summary
