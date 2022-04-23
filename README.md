@@ -13,7 +13,7 @@ The number of cancelled campaigns were almost constant trough the year.
 
 ![VBA_Data Results_2017](/Resources/VBA_Challenge_Results2017.png)
 
-![VBA_Challenge_2017](/Resources/VBA_Challenge_2017.png)
+![VBA_Challenge_2017](https://raw.githubusercontent.com/noeliavt/GreenStocks-Analysis-with-VBA/main/Resources/VBA_Challenge_2017.png)
 
 ### 2.2.  Analysis of the Performance of 2018 data
 
