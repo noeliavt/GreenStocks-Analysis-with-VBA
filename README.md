@@ -16,7 +16,7 @@ The number of cancelled campaigns were almost constant trough the year.
 </p>
 
 <p align="center">
-  <img src="Resources/VBA_Challenge_Results2017.png">
+  <img src="Resources/VBA_Challenge_2017.png">
 </p>
 
 
