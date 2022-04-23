@@ -11,7 +11,7 @@ The main purpose of this analysis is to know how different campaigns fared in re
 After analyzing the Outcomes in based of Launch Dates for the Play category we can conclude that the months with the highest numbers of successful campaigns were May and June and July also those months we have more campaigns launched in overall, as well as the months with the highest number of Failed campaigns were November, December.
 The number of cancelled campaigns were almost constant trough the year.
 
-![VBA_Data Results_2017](/Resources/VBA_Challenge_Results2017.png)
+![VBA_Data Results_2017](Resources/VBA_Challenge_Results2017.png)
 
 ![VBA_Challenge_2017](https://raw.githubusercontent.com/noeliavt/GreenStocks-Analysis-with-VBA/main/Resources/VBA_Challenge_2017.png)
 
