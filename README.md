@@ -38,11 +38,16 @@ For the next year we can suggest to continue investing in the following stocks a
 
 ## 3. Summary
 ### 3.1 What are the advantages or disadvantages of refactoring code?
-The purpose of code refactoring in improving the design of existing code, and it has the following advantages:
+The purpose of code refactoring is improve the design of existing code, and it has the following advantages and disadvantages:
+####Advantages:
  * Simplified support and code updates.
  * Saved time and money in the future.
  * Reduced complexity for easier understanding
  * Maintainability and scalability
+
+####Disadvantages:
+  * Imprecise refactoring could introduce new bugs and errors into the code
+  * Run out of time and money
 
 ### 3.2.How do these pros and cons apply to refactoring the original VBA script?
 
