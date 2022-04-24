@@ -3,30 +3,32 @@
 ## 1. Overview of Project
 
 ### 1.1. Purpose
-The main purpose of this project besides the analysis of the Steve's parents stocks information for 2017 and 2018 years, is organize the information per year and also calculate the total volume and returns for the different tickers along the refactoring of the VBS code to improve the general performance.
+The main purpose of this project besides the analysis of the Steve's parents stocks information for 2017 and 2018 years, is organize the information per year and also calculate the "Total Daily Volume" and  the "Return" for the different tickers along the refactoring of the VBS code to improve the general performance.
 
-## 2. Analysis os Stocks
+## 2. Analysis of Stocks
 
 ### 2.1. Analysis of the Performance of 2017 data
-After analyzing the Outcomes in based of Launch Dates for the Play category we can conclude that the months with the highest numbers of successful campaigns were May and June and July also those months we have more campaigns launched in overall, as well as the months with the highest number of Failed campaigns were November, December.
-The number of cancelled campaigns were almost constant trough the year.
+After analyzing the "Return" for the diferent tickers in 2017,as you can see in the below table. We can conclude that in 2017 there was a profit for most all the tickers except for the "TERP".In conclusion in 2017 we have a good performance for almost all the investments of Steve's parents.
 
 <p align="center">
   <img  src="Resources/VBA_Challenge_Results2017.png">
 </p>
 
+Regarding the script time execution for 2017, we can see a good performance since it took 11.10547 second to proccess all the information.
 <p align="center">
   <img src="Resources/VBA_Challenge_2017.png">
 </p>
 
 
 ### 2.2.  Analysis of the Performance of 2018 data
-
-On Regards the Outcomes we can conclude that the campaigns with goals less than 1000 and between 1000 to 4999 have the most successfull percentage as well as the campaigns were the goal was between 35000 to 50000 and more. Percentage of Cancel campaigns remain constant. 
+Unlike 2017 after analized the information summary on the below table, we can conclude that in 2018 unfornately there was a loss in the 75% of the investments, the only investments which have a profit were the followings: "AY", "ENPH", and "RUN".
+For the next year we can suggest to continue investing in the following stocks and sell "Terp" which shows losses for two consecutive years.
 
 <p align="center">
   <img  src="Resources/VBA_Challenge_Results2018.png">
 </p>
+
+
 
 <p align="center">
   <img src="Resources/VBA_Challenge_2018.png">
@@ -36,8 +38,11 @@ On Regards the Outcomes we can conclude that the campaigns with goals less than 
 
 ## 3. Summary
 ### 3.1 What are the advantages or disadvantages of refactoring code?
-
-
+The purpose of code refactoring in improving the design of existing code, and it has the following advantages:
+ * Simplified support and code updates.
+ * Saved time and money in the future.
+ * Reduced complexity for easier understanding
+ * Maintainability and scalability
 
 ### 3.2.How do these pros and cons apply to refactoring the original VBA script?
 
