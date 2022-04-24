@@ -48,6 +48,8 @@ The purpose of code refactoring is improve the design of existing code, and it h
 ### Disadvantages:
   * Imprecise refactoring could introduce new bugs and errors into the code
   * Run out of time and money
+  * Need more testing 
 
 ### 3.2.How do these pros and cons apply to refactoring the original VBA script?
-
+These pros are applied because it allows the script to work with a large amount of data , because it has reduced the complexity, making the code the code more easy to understand it.
+One of the cons could be since we are working with a large amount of data, we need to test more in order to get accurate results.
