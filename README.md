@@ -17,7 +17,7 @@ After analyzing the "Return" for the diferent tickers in 2017,as you can see in 
 Here we can see the performance improve from 0.27 to 0.06 for 2017.
 
 <p align="center">
-  <img src="Resources/1.png" width="350" height="100">
+  <img src="Resources/1.png" width="450" >
 </p>
 
 
