@@ -14,9 +14,10 @@ After analyzing the "Return" for the diferent tickers in 2017,as you can see in 
   <img  src="Resources/VBA_Challenge_Results2017.png">
 </p>
 
-Regarding the script time execution for 2017, we can see a good performance since it took 11.10547 second to proccess all the information.
+Here we can see the performance improve from 0.27 to 0.06 for 2017.
+
 <p align="center">
-  <img src="Resources/VBA_Challenge_2017.png">
+  <img src="Resources/1.png" width="350" height="100">
 </p>
 
 
@@ -28,13 +29,11 @@ For the next year we can suggest to continue investing in the following stocks: 
   <img  src="Resources/VBA_Challenge_Results2018.png">
 </p>
 
- The script time execution for 2018 was of 2.234375, we can see a better performance than 2017.
+ The script time performace has improve a lot fro 2018 as well.
 
 <p align="center">
-  <img src="Resources/VBA_Challenge_2018.png">
+  <img src="Resources/2.png" width="450">
 </p>
-
-
 
 ## 3. Summary
 ### 3.1 What are the advantages or disadvantages of refactoring code?
